@@ -1,0 +1,6 @@
+numpy==2.2.2
+pandas==2.2.3
+python-dotenv==1.0.1
+streamlit==1.41.1
+streamlit_calendar==1.2.1
+tzlocal==5.2

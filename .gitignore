@@ -3,3 +3,4 @@ config/googlesheets.json
 config/.env
 src/dev/*
 src/__pycache__/*
+venv/*
