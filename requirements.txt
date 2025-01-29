@@ -4,3 +4,4 @@ python-dotenv==1.0.1
 streamlit==1.41.1
 streamlit_calendar==1.2.1
 tzlocal==5.2
+icalendar==6.1.1
