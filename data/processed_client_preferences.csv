@@ -1,0 +1,6 @@
+name,email,location,session_duration,num_weekly_sessions,num_monthly_sessions,preferred_days,preferred_times,unavailable_dates
+Client 0,ds@gmail.com,Lab,60,3,20,"Tuesday, Thursday, Friday",,"2025-01-03, 2025-01-04, 2025-01-05, 2025-01-06, 2025-01-07"
+Client 1,abc@example.com,Remote,30,1,1,"Monday, Wednesday",18:00 to 21:00,"2025-01-22, 2025-01-23, 2025-01-24, 2025-01-25, 2025-01-26, 2025-01-27, 2025-01-28"
+Client 2,xyz@example.com,Lab,60,4,25,Wednesday,12:00 PM to 3:00 PM,
+Client 3,pqr@example.com,Remote,30,2,6,,12:00 to 15:00,
+Client 4,def@example.com,Lab,60,3,10,"Monday, Tuesday, Friday",,

@@ -1,0 +1,5 @@
+.DS_Store
+config/googlesheets.json
+config/.env
+src/dev/*
+src/__pycache__/*
